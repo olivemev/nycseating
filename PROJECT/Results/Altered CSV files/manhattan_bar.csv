@@ -1,0 +1,530 @@
+,OBJECTID_1,BoroCode,BoroName,Category,Address,GeocodeAdd,Borough,SeatingTyp
+1,2169,1,Manhattan,SBS,494 8th Avenue,1 Pennsylvania Plaza,Manhattan,LEANING BAR
+8,2086,1,Manhattan,General,433 Edgecomb Avenue,433 Edgecomb Avenue,Manhattan,BACKED 1.0
+10,1849,1,Manhattan,Senior Center,5365 Broadway,5365 Broadway,Bronx,BACKED 1.0
+19,817,1,Manhattan,General,95 Wall Street,95 Wall Street,Manhattan,BACKLESS 1.0
+23,953,1,Manhattan,Municipal Facilities,273 Bowery,273 Bowery,Manhattan,BACKLESS 1.0
+34,1269,1,Manhattan,Municipal Facilities,742 10th Avenue,742 10th Avenue,Manhattan,BACKED 1.0
+44,2172,1,Manhattan,SBS,61 E 34th Street,61 E 34th Street,Manhattan,LEANING BAR
+48,1325,1,Manhattan,General,1625 York Avenue,1625 York Avenue,Manhattan,BACKLESS 2.0
+51,1027,1,Manhattan,Municipal Facilities,423 E 23rd Street,423 E 23rd Street,Manhattan,BACKED 1.0
+56,891,1,Manhattan,General,30 West Broadway,30 West Broadway,Manhattan,BACKED 1.0
+58,1482,1,Manhattan,Community Health Centers,216 East 120th Street,216 East 120th Street,Manhattan,BACKED 1.0
+62,967,1,Manhattan,General,109 West Houston Street,109 West Houston Street,Manhattan,BACKLESS 1.0
+67,1763,1,Manhattan,Bus Route,1539 St. Nicholas Avenue,1539 St. Nicholas Avenue,Manhattan,BACKLESS 2.0
+71,1044,1,Manhattan,BID,100 E 23rd Street,100 E 23rd Street,Manhattan,BACKED 1.0
+72,1349,1,Manhattan,General,1659 2nd Avenue,1659 2nd Avenue,Manhattan,BACKLESS 2.0
+75,1548,1,Manhattan,Senior Center,540 Lenox Avenue,540 Lenox Avenue,Manhattan,BACKLESS 1.0
+87,1736,1,Manhattan,Senior Safety,618 W. 177th Street,618 W. 177th Street,Manhattan,BACKED 1.0
+92,1361,1,Manhattan,Municipal Facilities,170 Central Park West,170 Central Park West,Manhattan,BACKLESS 1.0
+102,1424,1,Manhattan,General,154 West 93rd Street,154 West 93rd Street,Manhattan,BACKED 1.0
+112,2023,1,Manhattan,Community Health Centers,2505 Adam Clayton Powell Jr. Boulevard,2505 Adam Clayton Powell Jr. Boulevard,Manhattan,BACKLESS 1.0
+125,1323,1,Manhattan,Senior Safety,245 E. 80th Street,245 E. 80th Street,Manhattan,BACKED 1.0
+127,2054,1,Manhattan,BID,225 Hudson Street,225 Hudson Street,Manhattan,BACKED 1.0
+128,1998,1,Manhattan,General,2882 Broadway,2882 Broadway,Manhattan,BACKED 1.0
+132,1360,1,Manhattan,BID,313 Columbus Avenue,313 Columbus Avenue,Manhattan,BACKED 1.0
+136,1569,1,Manhattan,General,2401 Adam Clayton Powell Jr. Blvd,,Manhattan,BACKED 1.0
+140,1488,1,Manhattan,Municipal Facilities,41 West 117th Street,41 West 117th Street,Manhattan,BACKED 1.0
+155,1429,1,Manhattan,General,103 W 96th Street,103 W 96th Street,Manhattan,BACKLESS 2.0
+161,1220,1,Manhattan,General,357 East 57th Street,357 East 57th Street,Manhattan,Unknown
+165,1099,1,Manhattan,General,209 West 23rd Street,209 West 23rd Street,Manhattan,BACKED 1.0
+174,1315,1,Manhattan,AAR,10 Lincoln Center Plaza,10 Lincoln Center Plaza,Manhattan,BACKLESS 2.0
+176,1306,1,Manhattan,Senior Center,1437 2nd Avenue,1437 2nd Avenue,Manhattan,BACKLESS 1.0
+181,1257,1,Manhattan,Senior Safety,1208 1st Avenue,1208 1st Avenue,Manhattan,BACKED 2.0
+184,2069,1,Manhattan,Municipal Facilities,1326 St. Nicholas Avenue,1326 St. Nicholas Avenue,Manhattan,BACKLESS 1.0
+185,1493,1,Manhattan,General,143 St Nicholas Avenue,143 St Nicholas Avenue,Manhattan,BACKED 1.0
+187,1524,1,Manhattan,Senior Center,437 Lenox Avenue,437 Lenox Avenue,Manhattan,BACKED 1.0
+199,2113,1,Manhattan,Senior Safety,70 Bowery,70 Bowery,Manhattan,BACKED 1.0
+205,903,1,Manhattan,BID,255 Greenwich Street,255 Greenwich Street,Manhattan,BACKED 2.0
+207,1522,1,Manhattan,BID,133 Morningside Avenue,,Manhattan,BACKED 1.0
+210,1432,1,Manhattan,Municipal Facilities,219 East 109th Street,219 East 109th Street,Manhattan,BACKED 1.0
+211,928,1,Manhattan,Municipal Facilities,38 Delancey Street,38 Delancey Street,Manhattan,BACKED 1.0
+212,1465,1,Manhattan,General,1295 5th Avenue,35 E 110th Street,Manhattan,BACKLESS 1.0
+213,1457,1,Manhattan,General,421-435 East 116th Street,421 East 116th Street,Manhattan,BACKED 1.0
+215,1371,1,Manhattan,General,100 West 77th Street,100 West 77th Street,Manhattan,BACKED 1.0
+221,1422,1,Manhattan,General,703 Columbus Avenue,703 Columbus Avenue,Manhattan,BACKED 1.0
+222,971,1,Manhattan,BID,103 Charlton Street,103 Charlton Street,Manhattan,BACKED 1.0
+223,2171,1,Manhattan,SBS,349 5th Avenue,4 E. 34th Street,Manhattan,LEANING BAR
+231,910,1,Manhattan,General,411 Grand Street,411 Grand Street,Manhattan,BACKED 1.0
+242,1760,1,Manhattan,General,340 Haven Avenue,340 Haven Avenue,Manhattan,BACKED 1.0
+244,1733,1,Manhattan,Municipal Facilities,586 W 177th Street,586 W 177th Street,Manhattan,BACKED 1.0
+245,1431,1,Manhattan,General,127 East 107th Street,127 East 107th Street,Manhattan,BACKED 1.0
+246,1054,1,Manhattan,General,656 6th Avenue,656 6th Avenue,Manhattan,BACKLESS 1.0
+247,1758,1,Manhattan,General,770 W 181st Street,454 Fort Washington Avenue,Manhattan,BACKED 1.0
+248,1443,1,Manhattan,General,163 West 97th Street,163 West 97th Street,Manhattan,BACKED 1.0
+260,1321,1,Manhattan,Senior Safety,158 Columbus Avenue,158 Columbus Avenue,Manhattan,BACKED 2.0
+262,896,1,Manhattan,Municipal Facilities,197 East Broadway,197 East Broadway,Manhattan,BACKED 1.0
+264,1341,1,Manhattan,General,201 Amsterdam Avenue,201 Amsterdam Avenue,Manhattan,BACKLESS 1.0
+268,1106,1,Manhattan,Senior Center,260 West 23rd Street,260 W 23rd Street,Manhattan,BACKLESS 1.0
+272,1354,1,Manhattan,Senior Center,1721 1st Avenue,1721 1st Avenue,Manhattan,BACKED 1.0
+274,1433,1,Manhattan,Community Health Centers,104 East 107th Street,104 East 107th Street,Manhattan,BACKED 1.0
+277,2085,1,Manhattan,General,2266 1st Avenue,2266 1st Avenue,Manhattan,BACKLESS 1.0
+278,1492,1,Manhattan,General,2309 Third Avenue,2309 Third Avenue,Manhattan,BACKLESS 1.0
+279,821,1,Manhattan,General,88 Pine Street,88 Pine Street,Manhattan,BACKED 1.0
+280,1367,1,Manhattan,Bus Route,123 East 86th Street,123 East 86th Street,Manhattan,BACKED 2.0
+286,2182,1,Manhattan,SBS,401 E 34th Street,606 1st Avenue,Manhattan,LEANING BAR
+289,1507,1,Manhattan,Community Health Centers,370 West 120th Street,370 West 120th Street,Manhattan,BACKED 1.0
+291,1518,1,Manhattan,Municipal Facilities,123 Morningside Drive,123 Morningside Drive,Manhattan,BACKED 1.0
+301,1399,1,Manhattan,General,1924 2nd Avenue,1924 2nd Avenue,Manhattan,Unknown
+303,1823,1,Manhattan,General,4961 Broadway,4961 Broadway,Manhattan,BACKLESS 1.0
+304,1423,1,Manhattan,General,154 West 93rd Street,154 West 93rd Street,Manhattan,BACKED 1.0
+305,1309,1,Manhattan,Senior Center,1486 1st Avenue,1486 1st Avenue,Manhattan,BACKED 1.0
+311,1472,1,Manhattan,Community Health Centers,1330 5th Avenue,1330 5th Avenue,Manhattan,BACKLESS 1.0
+312,958,1,Manhattan,General,167 Crosby Street,167 Crosby Street,Manhattan,BACKED 1.0
+313,1494,1,Manhattan,Bus Route,185 E 126th Street,185 E 126th Street,Manhattan,BACKLESS 2.0
+316,880,1,Manhattan,General,23 Chambers Street,23 Chambers Street,Manhattan,BACKED 1.0
+317,1741,1,Manhattan,Senior Safety,4180 Broadway,4180 Broadway,Manhattan,BACKED 1.0
+320,854,1,Manhattan,BID,95 Fulton Street,,Manhattan,BACKED 1.0
+326,1103,1,Manhattan,General,617 Second Avenue,617 Second Avenue,Manhattan,BACKED 1.0
+331,1381,1,Manhattan,BID,408 Columbus Avenue,408 Columbus Avenue,Manhattan,BACKED 1.0
+333,1064,1,Manhattan,BID,200 5th Avenue,200 5th Avenue,Manhattan,BACKED 1.0
+342,900,1,Manhattan,BID,255 Greenwich Street,255 Greenwich Street,Manhattan,BACKED 2.0
+346,1449,1,Manhattan,General,808 Columbus Avenue,808 Columbus Avenue,Manhattan,BACKLESS 2.0
+351,1607,1,Manhattan,Senior Center,695 Saint Nicholas Avenue,695 Saint Nicholas Avenue,Manhattan,BACKED 1.0
+353,2237,1,Manhattan,SBS,591 W 181st Street,591 W 181st Street,Manhattan,LEANING BAR
+355,1370,1,Manhattan,General,100 West 77th Street,100 West 77th Street,Manhattan,BACKED 1.0
+361,1812,1,Manhattan,General,233 Dyckman Street,233 Dyckman Street,Manhattan,BACKED 1.0
+369,2001,1,Manhattan,General,157 Avenue C,155-157 Avenue C,Manhattan,BACKED 1.0
+374,1235,1,Manhattan,Senior Safety,500 E 63rd Street,1157 York Avenue,Manhattan,BACKED 2.0
+379,976,1,Manhattan,General,169 Thompson Street,169 Thompson Street,Manhattan,BACKLESS 1.0
+384,1577,1,Manhattan,Municipal Facilities,669 Lenox Avenue,669 Lenox Avenue,Manhattan,BACKED 1.0
+385,1622,1,Manhattan,Community Health Centers,1750 Amsterdam Avenue,1750 Amsterdam Avenue,Manhattan,BACKED 1.0
+391,1735,1,Manhattan,General,1347 St Nicholas Avenue,1347 St Nicholas Avenue,Manhattan,BACKED 1.0
+399,1322,1,Manhattan,General,127 Amsterdam Avenue,127 Amsterdam Avenue,Manhattan,BACKED 1.0
+403,1063,1,Manhattan,General,449 West 14th Street,449 West 14th Street,Manhattan,BACKLESS 1.0
+404,1455,1,Manhattan,Municipal Facilities,440 E 116th Street,440 E 116th Street,Manhattan,BACKED 1.0
+411,1045,1,Manhattan,BID,925 Broadway,925 Broadway,Manhattan,BACKLESS 1.0
+413,1250,1,Manhattan,General,1020 Third Avenue,1020 3rd Avenue,Manhattan,BACKED 1.0
+416,1757,1,Manhattan,Municipal Facilities,185 Wadsworth Avenue,185 Wadsworth Avenue,Manhattan,BACKED 1.0
+417,923,1,Manhattan,Municipal Facilities,230 Grand Street,230 Grand Street,Manhattan,BACKED 1.0
+427,1365,1,Manhattan,General,1704 2nd Avenue,1704 2nd Avenue,Manhattan,BACKED 2.0
+439,1418,1,Manhattan,General,689 Columbus Avenue,689 Columbus Avenue,Manhattan,BACKED 1.0
+440,1092,1,Manhattan,General,108 West 24th Street,108 West 24th Street,Manhattan,BACKED 1.0
+444,1476,1,Manhattan,General,1890 Lexington Avenue,1890 Lexington Avenue,Manhattan,BACKED 1.0
+446,1929,1,Manhattan,Senior Center,136 Dyckman Street,136 Dyckman Street,Manhattan,BACKED 1.0
+453,1047,1,Manhattan,BID,925 Broadway,925 Broadway,Manhattan,BACKLESS 1.0
+455,1098,1,Manhattan,Municipal Facilities,202 W. 23rd Street,216 7th Avenue,Manhattan,BACKLESS 1.0
+457,1352,1,Manhattan,General,141 West 73rd Street,141 West 73rd Street,Manhattan,BACKED 1.0
+458,1536,1,Manhattan,General,518 West 125 Street,518 West 125 Street,Manhattan,BACKED 1.0
+465,1364,1,Manhattan,Bus Route,144 East 86th Street,144 East 86th Street,Manhattan,BACKLESS 1.0
+478,1420,1,Manhattan,General,703 Columbus Avenue,703 Columbus Avenue,Manhattan,BACKED 1.0
+480,1769,1,Manhattan,General,213 Pinehurst Avenue,213 Pinehurst Avenue,Manhattan,BACKED 1.0
+504,1031,1,Manhattan,General,247 3rd Avenue,247 3rd Avenue,Manhattan,BACKED 1.0
+505,892,1,Manhattan,General,30 West Broadway,30 West Broadway,Manhattan,BACKED 1.0
+513,1101,1,Manhattan,General,215 West 23rd Street,215 West 23rd Street,Manhattan,BACKED 1.0
+522,1732,1,Manhattan,Plaza,4140 Broadway,4140 Broadway,Manhattan,BACKLESS 1.0
+534,1375,1,Manhattan,General,1175 Madison Avenue,1175 Madison Avenue,Manhattan,BACKED 1.0
+535,1024,1,Manhattan,General,8-12 West 14th Street,8 West 14th street,Manhattan,BACKED 1.0
+536,901,1,Manhattan,BID,255 Greenwich Street,255 Greenwich Street,Manhattan,BACKED 2.0
+541,1623,1,Manhattan,Bus Route,3542 Broadway,592 W 145th Street,Manhattan,BACKLESS 1.0
+547,931,1,Manhattan,Senior Safety,162 Bowery,162 Bowery,Manhattan,BACKLESS 2.0
+551,1324,1,Manhattan,Senior Center,250 W65th Street,250 W65th Street,Manhattan,BACKED 1.0
+558,842,1,Manhattan,BID,80 Greenwich Street,80 Greenwich Street,Manhattan,BACKED 1.0
+560,1666,1,Manhattan,General,3740 Broadway,3740 Broadway,Manhattan,BACKED 1.0
+569,1038,1,Manhattan,Senior Center,302 3rd Avenue,302 3rd Avenue,Manhattan,BACKED 1.0
+578,1298,1,Manhattan,Senior Center,530 W 55th Street,530 W 55th Street,Manhattan,BACKED 1.0
+581,1355,1,Manhattan,General,201 W 72nd Street,201 W 72nd Street,Manhattan,BACKED 1.0
+584,1404,1,Manhattan,General,1955 2nd Avenue,1955 2nd Avenue,Manhattan,BACKLESS 2.0
+585,1403,1,Manhattan,General,1952 2nd Avenue,1952 2nd Avenue,Manhattan,BACKED 2.0
+591,2070,1,Manhattan,Municipal Facilities,2494 Frederick Douglass Boulevard,2494 Frederick Douglass Boulevard,Manhattan,BACKLESS 1.0
+597,1348,1,Manhattan,Senior Safety,1681 1st Avenue,1681 1st Avenue,Manhattan,BACKED 1.0
+598,1308,1,Manhattan,General,1446 2nd Avenue,1446 2nd Avenue,Manhattan,BACKED 2.0
+600,883,1,Manhattan,Senior Center,356 Madison Street,356 Madison Street,Manhattan,BACKLESS 1.0
+601,1069,1,Manhattan,AAR,550 1st Avenue,550 1st Avenue,Manhattan,BACKED 1.0
+603,2179,1,Manhattan,SBS,250 1st Avenue,250 1st Avenue,Manhattan,LEANING BAR
+606,1458,1,Manhattan,General,421-435 East 116th Street,421 East 116th Street,Manhattan,BACKED 1.0
+608,1289,1,Manhattan,General,1328 2nd Avenue,1328 2nd Avenue,Manhattan,BACKED 2.0
+609,1528,1,Manhattan,Municipal Facilities,1315 Amsterdam Avenue,1315 Amsterdam Avenue,Manhattan,BACKLESS 1.0
+611,927,1,Manhattan,General,215 Centre Street,215 Centre Street,Manhattan,BACKED 1.0
+620,1671,1,Manhattan,Community Health Centers,1996 Amsterdam Avenue,1996 Amsterdam Avenue,Manhattan,BACKED 1.0
+623,948,1,Manhattan,BID,431 Canal Street,431 Canal Street,Manhattan,BACKED 1.0
+629,1036,1,Manhattan,Senior Center,204 E 23rd Street,204 E 23rd Street,Manhattan,BACKLESS 1.0
+635,1401,1,Manhattan,Senior Safety,509 Amsterdam Avenue,509 Amsterdam Avenue,Manhattan,BACKED 2.0
+640,1462,1,Manhattan,Municipal Facilities,225 W 99th Street,225 W 99th Street,Manhattan,BACKED 1.0
+642,1071,1,Manhattan,General,183 Seventh Avenue,183 Seventh Avenue,Manhattan,BACKED 2.0
+643,2162,1,Manhattan,General,108 East 125th Street,108 East 125th Street,Manhattan,BACKLESS 1.0
+645,908,1,Manhattan,General,175 Clinton Street,175 Clinton Street,Manhattan,BACKED 1.0
+648,920,1,Manhattan,Senior Safety,234 Canal Street,234 Canal Street,Manhattan,BACKED 1.0
+657,1964,1,Manhattan,General,285 Bowery,285 Bowery,Manhattan,BACKED 1.0
+663,1416,1,Manhattan,General,660 Columbus Avenue,660 Columbus Avenue,Manhattan,BACKED 2.0
+666,1041,1,Manhattan,General,610 6th Avenue,610 6th Avenue,Manhattan,BACKED 1.0
+679,2184,1,Manhattan,SBS,245 E. 34th Street,245 E. 34th Street,Manhattan,LEANING BAR
+685,1407,1,Manhattan,Senior Safety,540 Amsterdam Avenue,540 Amsterdam Avenue,Manhattan,BACKED 2.0
+689,2020,1,Manhattan,Community Health Centers,2143 Adam Clayton Powell Jr Blvd,2143 Adam Clayton Powell Jr Blvd,Manhattan,BACKLESS 1.0
+691,1362,1,Manhattan,General,150 East 86th Street,150 East 86th Street,Manhattan,BACKLESS 1.0
+695,1725,1,Manhattan,Plaza,4140 Broadway,4140 Broadway,Manhattan,BACKED 1.0
+696,1342,1,Manhattan,General,401 East 86th Street,401 East 86th Street,Manhattan,BACKLESS 1.0
+701,1296,1,Manhattan,General,1350 1st Avenue,1350 1st Avenue,Manhattan,BACKED 1.0
+703,1344,1,Manhattan,General,111 West 71st Street,111 West 71st Street,Manhattan,BACKED 1.0
+708,2239,1,Manhattan,SBS,505 W 181st Street,505 W 181st Street,Manhattan,LEANING BAR
+711,1504,1,Manhattan,Bus Route,2059 Adam Clayton Powell Jr. Blvd,2059 Adam Clayton Powell Jr. Blvd,Manhattan,BACKLESS 1.0
+713,1690,1,Manhattan,Municipal Facilities,465 West 167th Street,2171 Amsterdam Avenue,Manhattan,BACKLESS 1.0
+720,2168,1,Manhattan,SBS,311 W 34th Street,311W 34th Street,Manhattan,LEANING BAR
+723,1434,1,Manhattan,General,61 E 106th Street,61 E 106th Street,Manhattan,BACKED 1.0
+724,990,1,Manhattan,Senior Center,25 Carmine Street,25 Carmine Street,Manhattan,BACKED 1.0
+725,1017,1,Manhattan,Community Health Centers,40 Irving Place,40 Irving Place,Manhattan,BACKED 1.0
+726,1368,1,Manhattan,BID,338 Columbus Avenue,338 Columbus Avenue,Manhattan,BACKED 1.0
+727,1521,1,Manhattan,Municipal Facilities,250 W 127th Street,250 W 127th Street,Manhattan,BACKED 1.0
+729,1477,1,Manhattan,General,953 Columbus Avenue,953 Columbus Avenue,Manhattan,BACKLESS 1.0
+738,1013,1,Manhattan,AAR,10 Union Square East,10 Union Square East,Manhattan,BACKED 1.0
+758,1394,1,Manhattan,General,175 East 96th Street,175 East 96th Street,Manhattan,BACKLESS 1.0
+769,1129,1,Manhattan,General,165 Madison Avenue,165 Madison Ave,Manhattan,BACKLESS 2.0
+771,1366,1,Manhattan,Bus Route,123 East 86th Street,123 East 86th Street,Manhattan,BACKED 2.0
+772,1928,1,Manhattan,BID,2319 Frederick Douglass Boulevard,2319 Frederick Douglass Boulevard,Manhattan,BACKED 1.0
+777,1400,1,Manhattan,General,506 Amsterdam Avenue,506 Amsterdam Avenue,Manhattan,BACKED 1.0
+778,1389,1,Manhattan,Municipal Facilities,444 Amsterdam Avenue,444 Amsterdam Avenue,Manhattan,BACKED 1.0
+779,1385,1,Manhattan,BID,430 Columbus Avenue,430 Columbus Avenue,Manhattan,BACKED 1.0
+789,1019,1,Manhattan,General,65 5th Avenue,65 5th Avenue,Manhattan,BACKED 1.0
+790,1782,1,Manhattan,Municipal Facilities,95 Nagle Avenue,95 Nagle Avenue,Manhattan,BACKED 1.0
+792,1134,1,Manhattan,General,199 Madison Avenue,199 Madison Avenue,Manhattan,BACKLESS 1.0
+794,1427,1,Manhattan,General,690 Amsterdam Avenue,690 Amsterdam Avenue,Manhattan,BACKED 1.0
+795,1388,1,Manhattan,General,1879 2nd Avenue,1879 2nd Avenue,Manhattan,BACKED 2.0
+802,1357,1,Manhattan,Bus Route,173 East 86th Street,173 East 86th Street,Manhattan,BACKED 2.0
+808,1502,1,Manhattan,Municipal Facilities,2005 Madison Avenue,91 East 127th Street,Manhattan,BACKED 1.0
+813,1337,1,Manhattan,General,1603 2nd Avenue,1603 2nd Avenue,Manhattan,BACKED 2.0
+816,1495,1,Manhattan,Bus Route,1090 Amsterdam Avenue,1090 Amsterdam Avenue,Manhattan,BACKLESS 2.0
+823,1784,1,Manhattan,Municipal Facilities,4600 Broadway,4600 Broadway,Manhattan,BACKLESS 1.0
+825,1425,1,Manhattan,General,308 E. 109th Street,308 E. 109th Street,Manhattan,Unknown
+835,1402,1,Manhattan,Municipal Facilities,345 E 101st Street,345 E 101st Street,Manhattan,BACKED 1.0
+844,1125,1,Manhattan,General,298 7th Avenue,298 7th Avenue,Manhattan,BACKLESS 1.0
+855,818,1,Manhattan,General,95 Wall Street,95 Water Street,Manhattan,BACKED 1.0
+856,881,1,Manhattan,General,225 Park Row,225 Park Row,Manhattan,BACKLESS 1.0
+860,843,1,Manhattan,BID,80 Greenwich Street,80 Greenwich Street,Manhattan,BACKED 1.0
+861,1670,1,Manhattan,Bus Route,1989 Amsterdam Avenue,1989 Amsterdam Avenue,Manhattan,BACKLESS 1.0
+862,877,1,Manhattan,Senior Center,334 Madison Street,334 Madison Street,Manhattan,BACKED 1.0
+863,914,1,Manhattan,General,43 Columbia Street,43 Columbia Street,Manhattan,BACKED 1.0
+872,1347,1,Manhattan,Municipal Facilities,100 W. 72nd Street,100 W. 72nd Street,Manhattan,BACKLESS 1.0
+875,898,1,Manhattan,BID,255 Greenwich Street,255 Greenwich Street,Manhattan,BACKED 1.0
+877,1406,1,Manhattan,General,541 Amsterdam Avenue,541 Amsterdam Ave,Manhattan,BACKLESS 1.0
+881,1222,1,Manhattan,Senior Safety,1065 2nd Avenue,"40.758754, -73.965756",Manhattan,BACKED 1.0
+884,845,1,Manhattan,BID,2 Rector Street,2 Rector Street,Manhattan,BACKED 1.0
+889,1496,1,Manhattan,Health Care Facilities,1111 Amsterdam Avenue,1111 Amsterdam Avenue,Manhattan,BACKED 1.0
+891,1055,1,Manhattan,BID,655 6th Avenue,655 6th Avenue,Manhattan,BACKED 1.0
+902,1565,1,Manhattan,Bus Route,2394 Adam Clayton Powell Jr Blvd,2394 Adam Clayton Powell Jr Blvd,Manhattan,BACKLESS 2.0
+918,1358,1,Manhattan,Bus Route,173 East 86th Street,173 East 86th Street,Manhattan,BACKED 2.0
+925,2055,1,Manhattan,BID,225 Hudson Street,225 Hudson Street,Manhattan,BACKED 1.0
+931,969,1,Manhattan,BID,175 Varick Street,175 Varick Street,Manhattan,BACKED 1.0
+933,1382,1,Manhattan,BID,408 Columbus Avenue,408 Columbus Avenue,Manhattan,BACKED 1.0
+934,1049,1,Manhattan,Municipal Facilities,40 West 20th Street,40 West 20th Street,Manhattan,BACKED 1.0
+936,964,1,Manhattan,BID,160 Varick Street,160 Varick Street,Manhattan,BACKED 1.0
+938,1390,1,Manhattan,Municipal Facilities,1700 3rd Avenue,1700 3rd Avenue,Manhattan,BACKED 1.0
+944,1310,1,Manhattan,Municipal Facilities,20 Lincoln Center Plaza,20 Lincoln Center Plaza,Manhattan,BACKLESS 1.0
+947,1384,1,Manhattan,General,245 E 93rd Street,1801 2nd Avenue,Manhattan,BACKED 2.0
+952,831,1,Manhattan,BID,160 Water Street,160 Water Street,Manhattan,BACKLESS 1.0
+953,1127,1,Manhattan,General,400 West 23rd Street,400 West 23rd Street,Manhattan,BACKED 1.0
+954,1719,1,Manhattan,General,1313 St Nicholas Avenue,1313 St Nicholas Avenue,Manhattan,BACKED 1.0
+959,1102,1,Manhattan,Health Care Facilities,317 E. 34th Street,173 E. 34th Street,Manhattan,BACKED 1.0
+967,979,1,Manhattan,General,393 Lafayette Street,393 Lafayette Street,Manhattan,BACKED 1.0
+969,847,1,Manhattan,BID,94 Greenwich Street,94 Greenwich Street,Manhattan,BACKED 1.0
+972,1742,1,Manhattan,Senior Safety,111 Wadsworth Avenue,111 Wadsworth Avenue,Manhattan,BACKED 1.0
+975,1460,1,Manhattan,General,1795 Lexington Avenue,1795 Lexington Ave,Manhattan,BACKED 1.0
+977,1453,1,Manhattan,General,455 East 116th Street,455 East 116th Street,Manhattan,BACKED 1.0
+987,1594,1,Manhattan,General,1616 Amsterdam Avenue,1616 Amsterdam Avenue,Manhattan,BACKED 1.0
+989,1444,1,Manhattan,General,163 West 97th Street,163 West 97th Street,Manhattan,BACKED 1.0
+994,1491,1,Manhattan,Municipal Facilities,224 East 125th Street,224 East 125th Street,Manhattan,BACKED 1.0
+995,2072,1,Manhattan,Municipal Facilities,2541 Adam Clayton Powell Boulevard,2541 Adam Clayton Powell Boulevard,Manhattan,BACKLESS 1.0
+996,1748,1,Manhattan,Senior Safety,600 W. 181st Street,600 W. 181st Street,Manhattan,BACKLESS 1.0
+997,1669,1,Manhattan,Senior Safety,1983 Amsterdam Avenue,1983 Amsterdam Avenue,Manhattan,BACKED 2.0
+1002,1480,1,Manhattan,General,1900 Lexington Avenue,1900 Lexington Avenue,Manhattan,BACKLESS 2.0
+1008,918,1,Manhattan,Municipal Facilities,Washington Market Park,181 Chambers Street,Manhattan,BACKLESS 1.0
+1015,1593,1,Manhattan,General,1616 Amsterdam Avenue,1616 Amsterdam Avenue,Manhattan,BACKED 1.0
+1023,1617,1,Manhattan,Municipal Facilities,510 W 145th Street,510 W 145th Street,Manhattan,BACKED 1.0
+1028,816,1,Manhattan,General,95 Wall Street,95 Wall Street,Manhattan,BACKLESS 1.0
+1035,1489,1,Manhattan,Municipal Facilities,34 W. 118th Street,34 W. 118th Street,Manhattan,BACKED 1.0
+1036,1738,1,Manhattan,Municipal Facilities,535 West 179th Street,535 West 179th Street,Manhattan,BACKED 1.0
+1043,1339,1,Manhattan,General,1617 2nd Avenue,1617 2nd Avenue,Manhattan,BACKED 2.0
+1047,1447,1,Manhattan,General,808 Columbus Avenue,808 Columbus Avenue,Manhattan,BACKED 1.0
+1049,1452,1,Manhattan,Municipal Facilities,735 West End Avenue,735 West End Avenue,Manhattan,BACKED 1.0
+1051,1015,1,Manhattan,Bus Route,401 East 20th Street,401 East 20th Street,Manhattan,BACKED 1.0
+1054,1543,1,Manhattan,Municipal Facilities,222 West 134th Street,222 West 134th Street,Manhattan,BACKED 1.0
+1055,930,1,Manhattan,Senior Safety,162 Bowery,162 Bowery,Manhattan,BACKLESS 2.0
+1066,911,1,Manhattan,Municipal Facilities,288 Delancey Street,335 Delancey Street,Manhattan,BACKLESS 1.0
+1074,1359,1,Manhattan,Bus Route,173 East 86th Street,173 East 86th Street,Manhattan,BACKED 2.0
+1075,1703,1,Manhattan,Municipal Facilities,1204 St. Nicholas Avenue,1204 St. Nicholas Avenue,Manhattan,BACKLESS 1.0
+1079,1300,1,Manhattan,General,1396 2nd Avenue,1396 2nd Avenue,Manhattan,BACKED 2.0
+1084,2073,1,Manhattan,Municipal Facilities,1245 1st Avenue,1245 1st Avenue,Manhattan,BACKLESS 1.0
+1092,1032,1,Manhattan,General,352 E 23rd Street,352 E 23rd Street,Manhattan,BACKLESS 1.0
+1095,1393,1,Manhattan,General,504 Columbus Avenue,504 Columbus Avenue,Manhattan,BACKED 1.0
+1099,1123,1,Manhattan,General,180 10th Avenue,180 10th Avenue,Manhattan,BACKED 1.0
+1100,1253,1,Manhattan,General,665 10th avenue,665 10th avenue,Manhattan,BACKED 1.0
+1107,1461,1,Manhattan,General,2261 First Avenue,2261 First Avenue,Manhattan,BACKED 1.0
+1108,1487,1,Manhattan,General,2253 Third Avenue,,Manhattan,BACKLESS 1.0
+1118,1628,1,Manhattan,General,1802 Amsterdam Avenue,1802 Amsterdam Avenue,Manhattan,BACKED 1.0
+1120,2170,1,Manhattan,SBS,242 W 34th Street,242 W 34th Street,Manhattan,LEANING BAR
+1121,1451,1,Manhattan,Municipal Facilities,1615 Madison Avenue,1615 Madison Avenue,Manhattan,BACKED 1.0
+1123,1603,1,Manhattan,Senior Center,3424 Broadway,3424 Broadway,Manhattan,BACKLESS 1.0
+1124,1343,1,Manhattan,General,111 West 71st Street,111 West 71st Street,Manhattan,BACKED 1.0
+1126,2181,1,Manhattan,SBS,492 1st Avenue,492 1st Avenue,Manhattan,LEANING BAR
+1133,904,1,Manhattan,BID,255 Greenwich Street,255 Greenwich Street,Manhattan,BACKED 2.0
+1138,2209,1,Manhattan,Bus Route,401 E 20th Street,401 E 20th Street,Manhattan,LEANING BAR
+1143,1318,1,Manhattan,General,1941 Broadway,1941 Broadway,Manhattan,BACKLESS 1.0
+1147,1282,1,Manhattan,Senior Safety,1299 1st Avenue,1299 1st Avenue,Manhattan,BACKED 2.0
+1164,1410,1,Manhattan,Community Health Centers,589 Amsterdam Avenue,589 Amsterdam Avenue,Manhattan,BACKED 1.0
+1173,1466,1,Manhattan,Community Health Centers,319 East 117th Street,319 East 117th Street,Manhattan,BACKED 1.0
+1177,1111,1,Manhattan,Municipal Facilities,776 6th Avenue,776 6th Avenue,Manhattan,Unknown
+1178,1363,1,Manhattan,Bus Route,144 East 86th Street,144 East 86th Street,Manhattan,BACKLESS 1.0
+1184,1286,1,Manhattan,Senior Safety,1175 3rd Avenue,1175 3rd Avenue,Manhattan,BACKED 2.0
+1187,2025,1,Manhattan,General,4986 Broadway,4986 Broadway,Manhattan,BACKLESS 1.0
+1188,963,1,Manhattan,BID,160 Varick Street,160 Varick Street,Manhattan,BACKED 1.0
+1190,1439,1,Manhattan,General,1573 Madison Avenue,1573 Madison Avenue,Manhattan,BACKED 1.0
+1194,1590,1,Manhattan,Municipal Facilities,110 W 146th Street,110 W 146th Street,Manhattan,BACKED 1.0
+1205,2002,1,Manhattan,BID,230 Greenwich Street,230 Greenwich Street,Manhattan,BACKED 1.0
+1208,2009,1,Manhattan,General,1313 York Avenue,1313 & 1320 York Avenue,Manhattan,BACKED 1.0
+1212,1411,1,Manhattan,General,410 E 106th Street,410 E 106th Street,Manhattan,BACKLESS 2.0
+1218,974,1,Manhattan,BID,345 Hudson Street,345 Hudson Street,Manhattan,BACKED 1.0
+1228,1639,1,Manhattan,Senior Center,3664 Broadway,3664 Broadway,Manhattan,BACKLESS 1.0
+1238,1435,1,Manhattan,General,2182 First Avenue,2182 First Avenue,Manhattan,BACKLESS 1.0
+1243,2056,1,Manhattan,General,88 East Broadway,88 East Broadway,Manhattan,BACKLESS 1.0
+1246,2240,1,Manhattan,SBS,600 W 181st Street,600 W 181st Street,Manhattan,LEANING BAR
+1250,1561,1,Manhattan,Senior Center,120 W 140th Street,120 W 140th Street,Manhattan,BACKED 1.0
+1252,960,1,Manhattan,BID,304 Hudson Street,304 Hudson Street,Manhattan,BACKED 1.0
+1254,1002,1,Manhattan,General,83 University Place,83 University Place,Manhattan,BACKED 1.0
+1264,1391,1,Manhattan,General,127 West 83rd Street,127 West 83rd Street,Manhattan,BACKED 1.0
+1276,1242,1,Manhattan,General,645 10th Avenue,645 10th Avenue,Manhattan,BACKED 1.0
+1280,1442,1,Manhattan,General,209 West 96th Street,209 West 96th Street,Manhattan,BACKLESS 1.0
+1281,824,1,Manhattan,General,80 Pine Street,80 Pine Street,Manhattan,BACKLESS 1.0
+1289,1646,1,Manhattan,Bus Route,458 West 155th Street,458 West 155th Street,Manhattan,BACKLESS 1.0
+1290,1538,1,Manhattan,Health Care Facilities,506 Lenox Avenue,506 Lenox Avenue,Manhattan,BACKED 1.0
+1296,1730,1,Manhattan,Plaza,4140 Broadway,4140 Broadway,Manhattan,BACKLESS 1.0
+1297,1503,1,Manhattan,Community Health Centers,119 West 124th Street,119 West 124th Street,Manhattan,BACKED 1.0
+1300,1419,1,Manhattan,Community Health Centers,1915 3rd Avenue,1915 3rd Avenue,Manhattan,BACKLESS 1.0
+1305,1483,1,Manhattan,General,201 West 106th Street,201 West 106th Street,Manhattan,BACKLESS 1.0
+1306,2114,1,Manhattan,Senior Safety,50 Bowery,50 Bowery,Manhattan,BACKED 1.0
+1309,2084,1,Manhattan,General,2266 1st Avenue,2266 1st Avenue,Manhattan,BACKED 1.0
+1314,1377,1,Manhattan,General,1748 2nd Avenue,1748 2nd Avenue,Manhattan,BACKED 2.0
+1320,941,1,Manhattan,Municipal Facilities,166 Essex Street,166 Essex Street,Manhattan,BACKED 1.0
+1324,1816,1,Manhattan,General,250 Dyckman Street,250 Dyckman Street,Manhattan,BACKED 1.0
+1337,1501,1,Manhattan,Bus Route,2027 Adam Clayton Powell Jr. Blvd,2027 Adam Clayton Powell Jr. Blvd,Manhattan,BACKLESS 1.0
+1340,1523,1,Manhattan,General,330 St. Nicholas Avenue,330 St. Nicholas Avenue,Manhattan,BACKED 1.0
+1341,1731,1,Manhattan,Plaza,4140 Broadway,4140 Broadway,Manhattan,BACKLESS 1.0
+1347,1373,1,Manhattan,General,100 West 77th Street,100 West 77th Street,Manhattan,BACKED 1.0
+1353,1240,1,Manhattan,Municipal Facilities,1190 York Avenue,501 East 63rd Street,Manhattan,BACKED 2.0
+1355,895,1,Manhattan,General,301 Henry Street,301 Henry Street,Manhattan,BACKED 1.0
+1361,1346,1,Manhattan,Senior Safety,1479 3rd Avenue,1479 3rd Avenue,Manhattan,BACKED 1.0
+1370,1716,1,Manhattan,Municipal Facilities,306 Fort Washington Avenue,306 Fort Washington Avenue,Manhattan,BACKED 1.0
+1371,1022,1,Manhattan,General,80 5th Avenue,80 5th Avenue,Manhattan,Unknown
+1373,1822,1,Manhattan,General,4953 Broadway,4953 Broadway,Manhattan,BACKLESS 1.0
+1375,1090,1,Manhattan,Municipal Facilities,403 East 34th Street,403 East 34th Street,Manhattan,BACKED 2.0
+1378,1467,1,Manhattan,General,185 E 115th Street,185 E 115th Street,Manhattan,BACKED 2.0
+1385,995,1,Manhattan,General,250 1st Avenue,250 1st Avenue,Manhattan,BACKED 1.0
+1386,1463,1,Manhattan,General,1660 Madison Avenue,1660 Madison Avenue,Manhattan,BACKED 1.0
+1388,1267,1,Manhattan,AAR,417 E 67th Street,417 E 67th Street,Manhattan,BACKED 1.0
+1389,1728,1,Manhattan,Plaza,4140 Broadway,4140 Broadway,Manhattan,BACKLESS 1.0
+1391,1277,1,Manhattan,Municipal Facilities,440 West 53rd Street,440 West 53rd Street,Manhattan,BACKED 1.0
+1396,989,1,Manhattan,General,276 Avenue C,276 Avenue C,Manhattan,BACKLESS 2.0
+1402,1675,1,Manhattan,Senior Center,2003 Amsterdam Avenue,2003 Amsterdam Avenue,Manhattan,BACKED 1.0
+1403,984,1,Manhattan,Municipal Facilities,721 Broadway,721 Broadway,Manhattan,BACKLESS 1.0
+1405,1848,1,Manhattan,Bus Route,5365 Broadway,5365 Broadway,Bronx,BACKLESS 2.0
+1406,1414,1,Manhattan,General,2401 Broadway,2401 Broadway,Manhattan,BACKED 2.0
+1407,955,1,Manhattan,Community Health Centers,600 East 6th Street,600 East 6th Street,Manhattan,BACKED 1.0
+1416,1124,1,Manhattan,Bus Route,145 & 147 Madison Ave,147 Madison Ave,Manhattan,BACKLESS 1.0
+1419,832,1,Manhattan,BID,172 Water Street,172 Water Street,Manhattan,BACKED 1.0
+1422,1478,1,Manhattan,Health Care Facilities,120 W 106th Street,120 W 106th Street,Manhattan,BACKLESS 1.0
+1425,887,1,Manhattan,General,179 Henry Street,179 Henry Street,Manhattan,BACKED 2.0
+1427,841,1,Manhattan,General,200 Water Street,200 Water Street,Manhattan,BACKED 1.0
+1428,851,1,Manhattan,BID,86 Trinity Place,86 Trinity Place,Manhattan,BACKED 1.0
+1432,1847,1,Manhattan,Bus Route,5365 Broadway,5365 Broadway,Bronx,BACKLESS 2.0
+1437,1319,1,Manhattan,Municipal Facilities,1373 3rd Avenue,1373 3rd Avenue,Manhattan,BACKLESS 1.0
+1442,1818,1,Manhattan,General,588 West 207th Street,588 West 207th Street,Manhattan,BACKED 1.0
+1444,987,1,Manhattan,Municipal Facilities,185 1st Avenue,185 1st Avenue,Manhattan,BACKED 1.0
+1447,1627,1,Manhattan,Municipal Facilities,3584 Broadway,3584 Broadway,Manhattan,BACKLESS 1.0
+1448,1353,1,Manhattan,General,1690 2nd Avenue,1690 2nd Avenue,Manhattan,BACKED 2.0
+1451,1718,1,Manhattan,General,1311 St. Nicholas Avenue,1311 St. Nicholas Avenue,Manhattan,BACKED 1.0
+1452,1326,1,Manhattan,General,303 E 83rd Street,1610 2nd Ave,Manhattan,BACKED 2.0
+1458,1120,1,Manhattan,General,201 9th Avenue,201 9th Avenue,Manhattan,BACKED 1.0
+1461,1417,1,Manhattan,General,2442 Broadway,2442 Broadway,Manhattan,BACKED 1.0
+1462,1633,1,Manhattan,Bus Route,Holcombe Rucker Park,2927 Frederick Douglass Boulevard,Manhattan,BACKED 1.0
+1465,1667,1,Manhattan,Senior Safety,1970 Amsterdam Avenue,1970 Amsterdam Avenue,Manhattan,BACKED 1.0
+1471,1011,1,Manhattan,Municipal Facilities,841 Broadway,841 Broadway,Manhattan,BACKLESS 1.0
+1472,961,1,Manhattan,Bus Route,393 E 10th Street,393 E 10th Street,Manhattan,BACKLESS 2.0
+1476,2052,1,Manhattan,BID,104 Varick Street,104 Varick Street,Manhattan,BACKLESS 1.0
+1479,1301,1,Manhattan,General,260 E 72nd Street,1361 2nd Avenue,Manhattan,BACKED 1.0
+1486,888,1,Manhattan,General,30 West Broadway,30 West Broadway,Manhattan,BACKED 1.0
+1492,1374,1,Manhattan,General,100 West 77th Street,100 West 77th Street,Manhattan,BACKED 1.0
+1498,1471,1,Manhattan,Municipal Facilities,885 Columbus Avenue,885 Columbus Avenue,Manhattan,BACKED 1.0
+1503,1376,1,Manhattan,General,298 E 91st Street,1747 2nd Avenue,Manhattan,BACKED 2.0
+1507,1441,1,Manhattan,General,775 Columbus Avenue,775 Columbus Avenue,Manhattan,BACKED 1.0
+1508,1446,1,Manhattan,General,214 West 96th Street,214 West 96th Street,Manhattan,BACKLESS 1.0
+1510,1817,1,Manhattan,General,251 Dyckman Street,251 Dyckman Street,Manhattan,BACKED 1.0
+1517,1126,1,Manhattan,General,529 Third Avenue,529 Third Avenue,Manhattan,BACKED 1.0
+1522,1541,1,Manhattan,Municipal Facilities,2289 5th Avenue,2289 5th Avenue,Manhattan,BACKED 1.0
+1524,1484,1,Manhattan,General,1940 Lexington Avenue,1940 Lexington Avenue,Manhattan,BACKED 1.0
+1527,1724,1,Manhattan,Plaza,4140 Broadway,4140 Broadway,Manhattan,BACKED 1.0
+1531,2112,1,Manhattan,Senior Safety,70 Bowery,70 Bowery,Manhattan,BACKED 1.0
+1532,1801,1,Manhattan,Municipal Facilities,4650 Broadway,4650 Broadway,Manhattan,BACKLESS 1.0
+1535,876,1,Manhattan,General,180 Park Row,180 Park Row,Manhattan,BACKLESS 1.0
+1538,1320,1,Manhattan,Senior Safety,144 Columbus Avenue,144 Columbus Avenue,Manhattan,BACKLESS 1.0
+1546,1749,1,Manhattan,Municipal Facilities,1422 St. Nicholas Avenue,585 West 181st Street,Manhattan,BACKLESS 1.0
+1548,1438,1,Manhattan,General,1738 - 1740 Lexington Avenue,1744 Lexington Avenue,Manhattan,BACKED 1.0
+1549,2238,1,Manhattan,SBS,568 W 181st Street,568 W 181st Street,Manhattan,LEANING BAR
+1551,1050,1,Manhattan,Senior Center,303 Park Avenue South,303 Park Avenue South,Manhattan,BACKLESS 1.0
+1571,1470,1,Manhattan,General,158 E 115th Street,158 E 115th Street,Manhattan,BACKED 1.0
+1573,1415,1,Manhattan,Senior Safety,621 Amsterdam Avenue,621 Amsterdam Avenue,Manhattan,BACKLESS 2.0
+1577,1796,1,Manhattan,General,431 West 204th Street,3815 10th Avenue,Manhattan,BACKED 1.0
+1578,1225,1,Manhattan,General,566 10th Avenue,566 10th Avenue,Manhattan,BACKED 2.0
+1579,1498,1,Manhattan,Municipal Facilities,2900 Broadway,2900 Broadway,Manhattan,BACKED 1.0
+1587,1303,1,Manhattan,General,1399 2nd Avenue,1399 2nd Avenue,Manhattan,BACKED 2.0
+1591,983,1,Manhattan,Municipal Facilities,721 Broadway,721 Broadway,Manhattan,BACKLESS 1.0
+1593,1485,1,Manhattan,General,2212 Third Avenue,2212 Third Avenue,Manhattan,BACKED 1.0
+1600,965,1,Manhattan,Municipal Facilities,330 Hudson Street,330 Hudson Street,Manhattan,BACKLESS 1.0
+1611,1512,1,Manhattan,Senior Center,2121 Fifth Avenue,2121 5th Avenue,Manhattan,BACKED 1.0
+1612,1815,1,Manhattan,General,250 Dyckman Street,250 Dyckman Street,Manhattan,BACKED 1.0
+1613,1750,1,Manhattan,Senior Safety,4239 Broadway,4239 Broadway,Manhattan,BACKED 1.0
+1614,1316,1,Manhattan,General,250 West 61st Street,40 West End Avenue,Manhattan,BACKLESS 2.0
+1621,1413,1,Manhattan,Health Care Facilities,1450 Madison Avenue,1450 Madison Avenue,Manhattan,BACKED 1.0
+1622,1396,1,Manhattan,General,1900 2nd Avenue,1900 2nd Avenue,Manhattan,BACKED 2.0
+1624,1469,1,Manhattan,Community Health Centers,505 E 120th Street,505 E 120th Street,Manhattan,BACKLESS 1.0
+1629,1497,1,Manhattan,Municipal Facilities,35 E. 125th Street,35 E. 125th Street,Manhattan,BACKLESS 1.0
+1640,811,1,Manhattan,General,10 Hanover Square,10 Hanover Square,Manhattan,BACKED 1.0
+1650,2115,1,Manhattan,Senior Safety,50 Bowery,50 Bowery,Manhattan,BACKED 1.0
+1651,1813,1,Manhattan,General,4799 Broadway,4799 Broadway,Manhattan,BACKED 1.0
+1653,993,1,Manhattan,General,409 E 14th Street,409 E 14th St,Manhattan,BACKED 2.0
+1654,2183,1,Manhattan,SBS,1666 1st Avenue,1666 1st Avenue,Manhattan,LEANING BAR
+1660,1284,1,Manhattan,General,1310 2nd Avenue,1310 2nd Avenue,Manhattan,BACKED 2.0
+1661,926,1,Manhattan,Municipal Facilities,525 East Houston Street,525 East Houston Street,Manhattan,BACKLESS 1.0
+1665,1426,1,Manhattan,General,308 E. 109th Street,308 E. 109th Street,Manhattan,BACKED 2.0
+1666,1405,1,Manhattan,General,1955 2nd Avenue,1955 2nd Avenue,Manhattan,BACKLESS 2.0
+1669,1785,1,Manhattan,General,3754 10th Avenue,3754 10th Avenue,Manhattan,BACKLESS 2.0
+1676,1259,1,Manhattan,Municipal Facilities,419 East 66th Street,419 East 66th Street,Manhattan,BACKED 1.0
+1679,1634,1,Manhattan,Municipal Facilities,3635 Broadway,3635 Broadway,Manhattan,BACKLESS 1.0
+1681,1475,1,Manhattan,General,2167 3rd Avenue,2167 3rd Avenue,Manhattan,BACKLESS 1.0
+1683,1445,1,Manhattan,Plaza,163 W. 97th Street,163 W 97th Street,Manhattan,BACKLESS 1.0
+1689,1509,1,Manhattan,BID,125 West 125th Street,,Manhattan,BACKED 1.0
+1693,1930,1,Manhattan,General,167 East 125th Street,167 East 125th Street,Manhattan,BACKED 1.0
+1703,1723,1,Manhattan,Plaza,4140 Broadway,4140 Broadway,Manhattan,BACKED 1.0
+1705,1068,1,Manhattan,General,53 West 23rd Street,53 West 23rd Street,Manhattan,BACKED 1.0
+1708,1810,1,Manhattan,Municipal Facilities,630 Academy Street,4790 Broadway,Manhattan,BACKED 1.0
+1711,1421,1,Manhattan,General,703 Columbus Avenue,703 Columbus Avenue,Manhattan,BACKED 1.0
+1718,1687,1,Manhattan,Bus Route,3906 Broadway,3906 Broadway,Manhattan,BACKLESS 2.0
+1725,1739,1,Manhattan,General,1365 Saint Nicholas Avenue,1365 Saint Nicholas Avenue,Manhattan,BACKED 1.0
+1735,991,1,Manhattan,Senior Center,39 Third Avenue,39 Third Avenue,Manhattan,BACKLESS 1.0
+1738,1448,1,Manhattan,General,808 Columbus Avenue,808 Columbus Avenue,Manhattan,BACKLESS 2.0
+1745,1046,1,Manhattan,BID,925 Broadway,925 Broadway,Manhattan,BACKLESS 1.0
+1746,2024,1,Manhattan,General,801 W 181st street,801 W 181st street,Manhattan,BACKED 1.0
+1747,1529,1,Manhattan,Municipal Facilities,1315 Amsterdam Avenue,1315 Amsterdam Avenue,Manhattan,BACKLESS 1.0
+1748,1481,1,Manhattan,Health Care Facilities,140 W 106th Street,140 W 106th Street,Manhattan,BACKED 1.0
+1757,1052,1,Manhattan,BID,155 5th Avenue,155 5th Avenue,Manhattan,BACKED 1.0
+1760,2210,1,Manhattan,Bus Route,503 E 20th Street,503 E 20th Street,Manhattan,LEANING BAR
+1764,1726,1,Manhattan,Plaza,4140 Broadway,4140 Broadway,Manhattan,BACKED 1.0
+1765,970,1,Manhattan,BID,103 Charlton Street,103 Charlton Street,Manhattan,BACKED 1.0
+1767,1383,1,Manhattan,Health Care Facilities,312 East 94th Street,312 East 94th Street,Manhattan,BACKED 1.0
+1772,2004,1,Manhattan,General,2167 Frederick Douglass Boulevard,2167 Frederick Douglass Boulevard,Manhattan,BACKED 1.0
+1782,1526,1,Manhattan,Senior Center,448 Lenox Avenue,448 Lenox Avenue,Manhattan,BACKED 1.0
+1784,848,1,Manhattan,General,74 Trinity Place,74 Trinity Place,Manhattan,BACKLESS 1.0
+1787,1464,1,Manhattan,General,830-832 Amsterdam Avenue,830 Amsterdam Avenue,Manhattan,BACKED 1.0
+1788,2167,1,Manhattan,SBS,360 W 34th Street,360 W 34th Street,Manhattan,LEANING BAR
+1790,1764,1,Manhattan,General,90 Bennett Avenue,90 Bennett Avenue,Manhattan,BACKED 1.0
+1791,828,1,Manhattan,BID,155 Water Street,155 Water Street,Manhattan,BACKLESS 1.0
+1795,977,1,Manhattan,Municipal Facilities,610 East 12th Street,610 East 12th Street,Manhattan,BACKED 1.0
+1803,924,1,Manhattan,Senior Safety,200 Centre Street,200 Centre Street,Manhattan,BACKED 1.0
+1810,1014,1,Manhattan,General,401 East 20th Street,401 East 20th Street,Manhattan,BACKED 2.0
+1811,1083,1,Manhattan,General,140 West 23rd Street,140 West 23rd Street,Manhattan,BACKED 1.0
+1815,1474,1,Manhattan,General,111 W 110th Street,111 W 110th Street,Manhattan,BACKED 1.0
+1816,1273,1,Manhattan,General,328 East 67th Street,328 East 67th Street,Manhattan,BACKED 2.0
+1818,1542,1,Manhattan,Municipal Facilities,104 West 136th Street,104 West 136th Street,Manhattan,BACKED 1.0
+1820,1304,1,Manhattan,General,1456 First Avenue,1456 First Avenue,Manhattan,BACKLESS 2.0
+1821,1604,1,Manhattan,General,1652 Amsterdam Avenue,1652 Amsterdam Avenue,Manhattan,BACKED 1.0
+1822,1606,1,Manhattan,General,1658 Amsterdam Avenue,1658 Amsterdam Avenue,Manhattan,BACKED 1.0
+1823,1236,1,Manhattan,Bus Route,300 East 60th Street,300 East 60th Street,Manhattan,BACKED 2.0
+1828,2053,1,Manhattan,BID,104 Varick Street,104 Varick Street,Manhattan,BACKLESS 1.0
+1833,2003,1,Manhattan,BID,230 Greenwich Street,230 Greenwich Street,Manhattan,BACKED 1.0
+1841,1292,1,Manhattan,General,921 Lexington Avenue,139 E 68th Street,Manhattan,BACKLESS 1.0
+1844,1238,1,Manhattan,General,205 East 59th Street,999 3rd Ave,Manhattan,BACKED 1.0
+1847,1265,1,Manhattan,AAR,1275 York Ave,1275 York Ave,Manhattan,BACKED 1.0
+1851,1035,1,Manhattan,General,568 6th Avenue,568 6th Avenue,Manhattan,BACKED 1.0
+1854,2068,1,Manhattan,Municipal Facilities,648 West 181st Street,648 West 181st Street,Manhattan,BACKLESS 1.0
+1863,1983,1,Manhattan,Senior Center,2730 Frederick Douglass Boulevard,2730 Frederick Douglass Boulevard,Manhattan,BACKLESS 1.0
+1868,2008,1,Manhattan,General,1320 York Avenue,1313 & 1320 York Avenue,Manhattan,BACKED 1.0
+1870,1693,1,Manhattan,Municipal Facilities,3959 Broadway,3959 Broadway,Manhattan,BACKED 1.0
+1872,1647,1,Manhattan,Bus Route,460 West 155th Street,1909 Amsterdam Avenue,Manhattan,BACKLESS 2.0
+1874,1924,1,Manhattan,General,1897 Lexington Avenue,1897 Lexington Avenue,Manhattan,BACKED 1.0
+1876,2028,1,Manhattan,Senior Center,1732 2nd Avenue,1732 2nd Avenue,Manhattan,BACKED 1.0
+1877,949,1,Manhattan,BID,431 Canal Street,431 Canal Street,Manhattan,BACKED 1.0
+1878,1773,1,Manhattan,General,620 Fort Washington Avenue,620 Fort Washington Avenue,Manhattan,BACKED 2.0
+1881,1771,1,Manhattan,Senior Safety,1602 St. Nicholas Avenue,1602 St. Nicholas Avenue,Manhattan,BACKED 1.0
+1883,868,1,Manhattan,BID,217 Broadway,217 Broadway,Manhattan,BACKED 1.0
+1885,1746,1,Manhattan,General,1420 St Nicholas Avenue,566 W 181st Street,Manhattan,BACKED 1.0
+1888,1759,1,Manhattan,Senior Safety,1471 St. Nicholas Avenue,1471 St. Nicholas Avenue,Manhattan,BACKED 1.0
+1893,1729,1,Manhattan,Plaza,4140 Broadway,4140 Broadway,Manhattan,BACKLESS 1.0
+1903,1459,1,Manhattan,General,318 Pleasant Avenue,318 Pleasant Avenue,Manhattan,BACKED 1.0
+1908,1440,1,Manhattan,Plaza,125 W. 97th Street,125 W. 97th Street,Manhattan,Unknown
+1909,2019,1,Manhattan,Community Health Centers,2230 Frederick Douglass Boulevard,2230 Frederick Douglass Boulevard,Manhattan,BACKLESS 1.0
+1911,1486,1,Manhattan,Community Health Centers,160 East 120th Street,160 East 120th Street,Manhattan,BACKED 1.0
+1912,1372,1,Manhattan,General,100 West 77th Street,100 West 77th Street,Manhattan,BACKED 1.0
+1924,1020,1,Manhattan,Municipal Facilities,116 West 11th Street,116 West 11th Street,Manhattan,BACKED 1.0
+1926,1398,1,Manhattan,Municipal Facilities,112 East 96th Street,112 East 96th Street,Manhattan,BACKED 1.0
+1927,917,1,Manhattan,Municipal Facilities,199 Chambers Street,199 Chambers Street,Manhattan,BACKED 1.0
+1929,1380,1,Manhattan,General,245 E 92nd Street,1779 2nd Avenue,Manhattan,BACKED 2.0
+1935,1436,1,Manhattan,General,1989 Third Avenue,1989 Third Avenue,Manhattan,BACKED 1.0
+1937,850,1,Manhattan,BID,110 Greenwich Street,110 Greenwich Street,Manhattan,BACKED 1.0
+1938,1437,1,Manhattan,General,1738 - 1740 Lexington Avenue,1744 Lexington Avenue,Manhattan,BACKED 1.0
+1940,889,1,Manhattan,General,30 West Broadway,30 West Broadway,Manhattan,BACKED 1.0
+1943,1747,1,Manhattan,General,1420 St Nicholas Avenue,566 W 181st Street,Manhattan,BACKED 1.0
+1946,1228,1,Manhattan,Senior Safety,1100 2nd Avenue,1100 2nd Avenue,Manhattan,BACKED 2.0
+1949,2201,1,Manhattan,SBS,206 East 86th Street,206 East 86th Street,Manhattan,LEANING BAR
+1953,1450,1,Manhattan,Plaza,765 Amsterdam Avenue,765 Amsterdam Avenue,Manhattan,BACKED 1.0
+1958,1780,1,Manhattan,Senior Center,54 Nagle Avenue,54 Nagle Avenue,Manhattan,BACKED 1.0
+1959,1224,1,Manhattan,General,555 10th Avenue,555 10th Avenue,Manhattan,BACKED 2.0
+1963,1278,1,Manhattan,General,300 E 68th Street,1276 2nd Avenue,Manhattan,BACKED 2.0
+1969,1000,1,Manhattan,General,298 First Avenue,298 First Avenue,Manhattan,BACKED 2.0
+1970,2057,1,Manhattan,General,88 East Broadway,88 East Broadway,Manhattan,BACKLESS 1.0
+1975,1560,1,Manhattan,Municipal Facilities,499 West 133rd Street,499 West 133rd Street,Manhattan,BACKED 1.0
+1978,1302,1,Manhattan,General,259 E 72nd Street,1391 2nd Avenue,Manhattan,BACKED 2.0
+1984,2180,1,Manhattan,SBS,416 1st Avenue,416 1st Avenue,Manhattan,LEANING BAR
+1993,1490,1,Manhattan,General,2009-2011 Lexington Avenue,2011 Lexington Avenue,Manhattan,BACKED 1.0
+1996,1762,1,Manhattan,Municipal Facilities,4306 Broadway,4306 Broadway,Manhattan,BACKLESS 1.0
+2008,2071,1,Manhattan,Municipal Facilities,1397 3rd Avenue,1397 3rd Avenue,Manhattan,BACKLESS 1.0
+2012,902,1,Manhattan,BID,255 Greenwich Street,255 Greenwich Street,Manhattan,BACKED 2.0
+2023,1619,1,Manhattan,Bus Route,540 West 145th Street,540 West 145th Street,Manhattan,BACKLESS 1.0
+2025,2011,1,Manhattan,BID,157 Varick Street,157 Varick Street,Manhattan,BACKED 1.0
+2026,2202,1,Manhattan,SBS,460 W 34th Street,460 W 34th Street,Manhattan,LEANING BAR
+2032,1626,1,Manhattan,Bus Route,3575 Broadway,3575 Broadway,Manhattan,BACKLESS 1.0
+2040,1010,1,Manhattan,Bus Route,503 E 20th Street,503 E 20th Street,Manhattan,BACKED 1.0
+2049,1537,1,Manhattan,Municipal Facilities,3150 Broadway,3150 Broadway,Manhattan,BACKLESS 1.0
+2053,1040,1,Manhattan,Senior Center,149 East 23rd Street,149 East 23rd Street,Manhattan,BACKLESS 1.0
+2054,906,1,Manhattan,General,270 Greenwich Street,270 Greenwich Street,Manhattan,BACKLESS 1.0
+2057,1649,1,Manhattan,Municipal Facilities,475 W 155th Street,475 W 155th Street,Manhattan,BACKLESS 1.0
+2059,1825,1,Manhattan,General,5030 Broadway,5030 Broadway,Manhattan,BACKED 1.0
+2065,1931,1,Manhattan,General,125 East 116th Street,125 East 116th Street,Manhattan,BACKED 1.0
+2069,1430,1,Manhattan,General,127 East 107th Street,127 East 107th Street,Manhattan,BACKED 1.0
+2077,1227,1,Manhattan,Senior Safety,407 E 59th Street,1086 1st Avenue,Manhattan,BACKED 2.0
+2082,994,1,Manhattan,Senior Center,240 First Avenue,,Manhattan,BACKED 1.0
+2088,1531,1,Manhattan,Municipal Facilities,2230 5th Avenue,2230 5th Avenue,Manhattan,BACKLESS 1.0
+2094,1684,1,Manhattan,Municipal Facilities,3864 Broadway,3864 Broadway,Manhattan,BACKLESS 1.0
+2099,909,1,Manhattan,General,411 Grand Street,411 Grand Street,Manhattan,BACKED 1.0
+2103,1386,1,Manhattan,Senior Safety,440 Amsterdam Avenue,440 Amsterdam Avenue,Manhattan,BACKED 1.0
+2104,951,1,Manhattan,Bus Route,90 Avenue D,90 Avenue D,Manhattan,BACKLESS 1.0
+2105,1133,1,Manhattan,Bus Route,191 Madison Avenue,191 Madison Ave,Manhattan,BACKLESS 1.0
+2108,1807,1,Manhattan,General,4712 Broadway,4712 Broadway,Manhattan,BACKED 1.0
+2109,1350,1,Manhattan,Senior Safety,289 Columbus Avenue,289 Columbus Avenue,Manhattan,BACKED 2.0
+2113,1473,1,Manhattan,Municipal Facilities,20 West 112th Street,20 West 112th Street,Manhattan,BACKED 1.0
+2120,1287,1,Manhattan,Bus Route,904 Lexington Avenue,904 Lexington Avenue,Manhattan,BACKLESS 1.0
+2122,968,1,Manhattan,BID,175 Varick Street,175 Varick Street,Manhattan,BACKED 1.0
+2129,1468,1,Manhattan,Community Health Centers,176 East 115th Street,176 East 115th Street,Manhattan,BACKED 1.0
+2130,1662,1,Manhattan,Senior Safety,1949 Amsterdam Avenue,1949 Amsterdam Avenue,Manhattan,BACKED 2.0
+2131,890,1,Manhattan,General,30 West Broadway,30 West Broadway,Manhattan,BACKED 1.0
+2133,879,1,Manhattan,Senior Center,122 Henry Street,122 Henry Street,Manhattan,BACKLESS 1.0
+2135,1412,1,Manhattan,Senior Center,333 West 86th Street,333 West 86th Street,Manhattan,BACKED 1.0
+2140,1428,1,Manhattan,General,65 West 96th Street,65 West 96th Street,Manhattan,BACKED 1.0
+2142,1369,1,Manhattan,General,100 West 77th Street,100 West 77th Street,Manhattan,BACKED 1.0
+2162,1637,1,Manhattan,Senior Safety,1865 Amsterdam Avenue,1865 Amsterdam Avenue,Manhattan,BACKED 2.0
+2170,1456,1,Manhattan,General,819 Columbus Avenue,819 Columbus Avenue,Manhattan,BACKED 1.0
+2171,1378,1,Manhattan,Bus Route,1 E 86th Street,1 E 86th Street,Manhattan,BACKLESS 1.0
+2172,981,1,Manhattan,Municipal Facilities,7 E. 7th Street,7 E. 7th Street,Manhattan,BACKED 1.0
+2179,1150,1,Manhattan,General,227 Madison Avenue,227 Madison Avenue,Manhattan,BACKLESS 1.0
+2181,1513,1,Manhattan,Senior Center,2121 Fifth Avenue,2121 5th Avenue,Manhattan,BACKED 1.0
+2185,801,1,Manhattan,General,1 New York Plaza,1 New York Plaza,Manhattan,BACKED 2.0
+2187,1479,1,Manhattan,Senior Center,55 Lenox Avenue,55 Lenox Avenue,Manhattan,BACKED 1.0
+2191,937,1,Manhattan,Community Health Centers,150 Essex Street,150 Essex Street,Manhattan,BACKED 1.0
+2201,899,1,Manhattan,BID,255 Greenwich Street,255 Greenwich Street,Manhattan,BACKED 2.0
+2202,973,1,Manhattan,BID,345 Hudson Street,345 Hudson Street,Manhattan,BACKED 1.0
+2204,954,1,Manhattan,Bus Route,118 Avenue D,118 Avenue D,Manhattan,BACKLESS 1.0
+2209,1554,1,Manhattan,Municipal Facilities,3240 Broadway,3240 Broadway,Manhattan,BACKLESS 1.0
+2211,1574,1,Manhattan,Health Care Facilities,2611 Frederick Douglas Boulevard,2611 Frederick Douglas Boulevard,Manhattan,BACKED 1.0
+2218,1727,1,Manhattan,Plaza,4140 Broadway,4140 Broadway,Manhattan,BACKLESS 1.0
+2219,1454,1,Manhattan,Municipal Facilities,451 E. 116th Street,451 E. 116th Street,Manhattan,BACKLESS 1.0
+2220,1130,1,Manhattan,General,540 West 21st Street,540 West 21st Street,Manhattan,BACKED 1.0
+2223,2094,1,Manhattan,Municipal Facilities,560 169th Street,560 169th Street,Manhattan,BACKED 1.0
+2230,2021,1,Manhattan,Community Health Centers,2212 Frederick Douglass Boulevard,2212 Frederick Douglass Boulevard,Manhattan,BACKLESS 1.0
+2232,1811,1,Manhattan,General,4781 Broadway,4781 Broadway,Manhattan,BACKED 1.0
+2236,1246,1,Manhattan,General,654 10th Avenue,654 10th Avenue,Manhattan,BACKED 1.0
